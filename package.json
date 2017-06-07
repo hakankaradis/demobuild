@@ -1,0 +1,26 @@
+{
+  "name": "demobuild",
+  "version": "1.0.0",
+  "description": "Brave.qa demo build repository",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Hakan Karadis <hakan@koding.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakankaradis/demobuild.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hakankaradis/demobuild/issues"
+  },
+  "homepage": "https://github.com/hakankaradis/demobuild#readme"
+}
