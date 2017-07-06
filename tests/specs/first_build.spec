@@ -4,11 +4,11 @@
 #
 
 # redirect: false
-Click on 'please make sure your url contains token'
-Do you see 'please go to second page' link? Do you see 'First Build First Page'?
+Make sure that you are on **index.html**
+Do you see **Your Website** logo on header? Do you see **Home**, **About**, **Contact** navigation links? Do you see **Welcome to Your Website** text in the middle content? Do you see **ABOUT US** button in the middle content?
 
-Click on 'please go to second page'
-Do you see 'Please go to third page' link?
+Click on **ABOUT US** button
+Do you see **About Us** text in the middle content? Do you see middle content that starts with "Lorem ipsum dolor sit amet, ..."? Do you see **CONTACT WITH US** button in the middle content?
 
-Click on 'Please go to third page'
-Do you see 'Third Page' text?
+Click on **CONTACT WITH US** button
+Do you see **+1(234) 567 8900** text? Do you see **info@example.com** text?
