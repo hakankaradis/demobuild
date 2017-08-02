@@ -1,6 +1,8 @@
+# redirect: false
 #! 2fa800c1-be4c-4834-9343-736a2889a77a
 # title: first_build
 # start_uri: /
+# tags: automated
 #
 
 # redirect: false
