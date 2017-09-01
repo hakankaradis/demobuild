@@ -1,1 +1,2 @@
 tests/specs/first_build.spec
+tests/specs/sign_in_with_wrong_credentials.spec
