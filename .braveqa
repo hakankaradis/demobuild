@@ -1,2 +1,3 @@
 tests/specs/main_page.spec
 tests/specs/sign_in_with_wrong_credentials.spec
+tests/specs/sign_in_with_correct_credentials.spec
