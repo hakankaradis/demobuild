@@ -1,7 +1,7 @@
 # title: Sign In With Wrong Credentials
 
-Task: Go to **Sing In** page.
-Results: Do you see **Sign In** form? Do you see **Username**, **Email**, **Password** input boxes? Do you see **Sign In** button?
+Task: Click **Log In** button on the right top of the page.
+Results: Do you see **Log in to Twitter** modal? Do you see **twitter icon**, **two input boxes**, and **Log In** button?
 
-Task: Enter **randomUsername** to Username input and enter **randomPassword** to username input then hit **Enter**
-Results: Do you see **wrong username/password** error message?
+Task: Type wrong **username** and **password** then click **Log In** button.
+Results: Do you see a modal that says **The username and password you entered did not match our records. Please double-check and try again.**?
