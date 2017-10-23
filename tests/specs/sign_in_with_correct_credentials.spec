@@ -1,4 +1,4 @@
-# title: sign_in_with_wrong_credentials
+# title: Sign In With Wrong Credentials
 
 Task: Go to **Sing In** page.
 Results: Do you see **Sign In** form? Do you see **Username**, **Email**, **Password** input boxes? Do you see **Sign In** button?
