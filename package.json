@@ -4,7 +4,8 @@
   "description": "Brave.qa demo build repository",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "prepush": "./pre-push"
   },
   "author": "Hakan Karadis <hakan@koding.com>",
   "license": "ISC",
